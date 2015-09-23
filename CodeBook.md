@@ -1,4 +1,4 @@
-# 1. Merge the training and the test sets to create one data set
+## 1. Merge the training and the test sets to create one data set
 Initially, the program reads all the ".txt" files corresponding to train and test sets, namely the x_train.txt, y_train.txt, x_test.txt, y_test.txt, subject_train.txt and subject_test.txt. 
 
 In the following the corresponding files are merged in order to produce new datasets, such as train_X, train_Y and train_Subject, as well as  test_X, test_Y and test_Subject. 
